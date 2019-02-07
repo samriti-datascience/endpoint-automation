@@ -2,7 +2,7 @@ exec 1> $PMRootDir/Scripts/automate_log_$(date '+%Y_%m_%d_%H%M%S').log 2>&1
 #!/bin/bash
 ######################################################################################################################
 # Program    : automate_end.sh                                                         #
-# Author     : Samriti Attrey (sattrey@vmware.com)              #
+# Author     : Samriti Attrey            #
 # Date       : 3-Oct-2018                                  #
 # Purpose    : This script is used to automate the end points  #
 # Modification History                                                                                               #
